@@ -16,7 +16,8 @@ Experience the full-featured Pipeline Editor with all implemented requirements a
 
 ### 📱 Application Screenshots
 
-![Pipeline Editor Screenshot](screenshots_action_1.png)
+![Pipeline Editor Screenshot](Screenshot_(149).png)
+![Pipeline Editor Screenshot](Screenshot_(150).png)
 *Main interface showing the pipeline canvas, validation panel, and node creation features*
 
 ## ✨ Features Implemented
