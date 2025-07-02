@@ -15,9 +15,9 @@ This is a comprehensive Pipeline Editor application built for the **Nexstem Fron
 Experience the full-featured Pipeline Editor with all implemented requirements and UX enhancements.
 
 ### 📱 Application Screenshots
+![Screenshot](Screenshot%20(149).png)
+![Screenshot](Screenshot%20(150).png)
 
-![Pipeline Editor Screenshot](Screenshot (149).png)
-![Pipeline Editor Screenshot](Screenshot (150).png)
 *Main interface showing the pipeline canvas, validation panel, and node creation features*
 
 ## ✨ Features Implemented
