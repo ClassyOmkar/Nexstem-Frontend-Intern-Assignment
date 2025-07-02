@@ -10,7 +10,7 @@ This is a comprehensive Pipeline Editor application built for the **Nexstem Fron
 
 ### 🚀 Live Demo
 
-**[View Live Application](https://your-app-name.netlify.app)** *(Update this URL after deployment)*
+**[View Live Application]([https://your-app-name.netlify.app](https://pipeline-editor-dag-builder.netlify.app/))** *(Update this URL after deployment)*
 
 ### 📱 Application Screenshots
 
